@@ -114,7 +114,7 @@ def post():
 		cookie()
 		exit()
 	if SendToken:
-		SendTokensend()
+		tokensend()
 		exit()
 
 if __name__ == '__main__':
