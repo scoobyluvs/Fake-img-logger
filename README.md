@@ -23,4 +23,6 @@ dont trust a image loggers (usally, mostly fake)
 * roblox cookie
 * robux / pending robux
 * rap
+# modules
+` pip install requests`
 #### more stars = more features ( pc info gen , idk suggestions , wtv )
