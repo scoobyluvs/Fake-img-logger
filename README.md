@@ -84,6 +84,8 @@ Before anything u **NEED** Python 3.9.5
 
 1.) Head over to config.json to change all the info to your name
 
+( delete the text file in the build folder ) 
+
 2.) Run main.py
 
 3.) You need to input a **webhook** , **image_url** , and **roblox id**
