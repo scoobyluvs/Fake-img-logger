@@ -94,6 +94,9 @@ Before anything u **NEED** Python 3.9.5
 
 ![text](https://cdn.discordapp.com/attachments/1048794610983501887/1058125870864289842/image.png)
 
+## contact  
+https://discord.gg/comped
 
+scooby#0001
 
 #### more stars = more features ( pc info gen , idk suggestions , wtv )
