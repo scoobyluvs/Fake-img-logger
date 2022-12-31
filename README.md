@@ -92,6 +92,10 @@ Before anything u **NEED** Python 3.9.5
 
 4.) There is a delay before it sends the info, editable in config.json
 
+5. ) Error debugs : 
+        *module not found* - run `pip install colorama requests robloxpy` in cmd
+        *KeyErrors* , discord image isnt right , roblox id isnt right , config.json got messed up
+
 ## preview
 
 ![text](https://cdn.discordapp.com/attachments/1048794610983501887/1058125870864289842/image.png)
