@@ -6,6 +6,8 @@ import requests
 from colorama import Fore
 from assets.checker import roblox
 from assets.gen import gen
+from assets.gen import text
+
 
 os.system('cls')
 os.system('mode 150,35')
@@ -92,17 +94,8 @@ SendToken = other_configs['SendToken']
 SendCookie = other_configs['SendCookie']
 SendPasswords = other_configs['SendPasswords']
 delay = other_configs['Delay']
-print(SendCookie)
 
-
-COLORS = { "black":"\u001b[30;1m", "red": "\u001b[31;1m", "green":"\u001b[32m", "yellow":"\u001b[33;1m", "blue":"\u001b[34;1m", "magenta":"\u001b[35m", "cyan": "\u001b[36m", "white":"\u001b[37m", "yellow-background":"\u001b[43m", "black-background":"\u001b[40m", "cyan-background":"\u001b[46;1m", }
-def colorText(text):
-  for color in COLORS:
-    text = text.replace("[[" + color + "]]", COLORS[color])
-  return text
-with open("assets/text.txt","r",encoding="utf8") as f:
-    ascii = "".join(f.readlines())
-    print(colorText(ascii))
+text()
 
 def print015(text):
     for c in text:
