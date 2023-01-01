@@ -6,7 +6,7 @@ import requests
 from colorama import Fore
 from assets.checker import roblox
 from assets.gen import gen
-from assets.gen import text
+from assets.banner import text
 
 
 os.system('cls')
