@@ -20,7 +20,6 @@
 
     "Other_Configs":[
         {
-          "Delay": 0,
           "SendPasswords": true,
           "SendCookie": true,
           "SendToken": "True"
