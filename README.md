@@ -33,9 +33,7 @@ Before anything u **NEED** Python 3.9.5
         
         - Edit the creators name
         
-        - Edit the emebeds
-        
-        - Delay
+        - Edit the emebed
         
         - Whats it sends
         
@@ -77,6 +75,16 @@ Before anything u **NEED** Python 3.9.5
    </details>
 <br>
 
+## libs 
+
+` pip install requests `
+
+` pip install keyboard `
+
+` pip install colorama `
+
+` pip install robloxpy `
+
 
 ## How to use
 
@@ -84,19 +92,16 @@ Before anything u **NEED** Python 3.9.5
 
 1.) Head over to config.json to change all the info to your name
 
-( delete the text file in the build folder ) 
-
 2.) Run main.py
 
 3.) You need to input a **webhook** , **image_url** , and **roblox id**
 
-4.) There is a delay before it sends the info, editable in config.json
+4.) Image is built to the build folder (might change later on where it's sent via webhook)
 
-5.) Error debugs: 
-        
- *module not found* - run `pip install colorama requests robloxpy` in cmd
+5.) Now if u press `esc` key on your keyboard , it sends the emebed. `q` on the keyboard is to end the loop , and close the program 
 
- *KeyErrors* , discord image isnt right , roblox id isnt right , config.json got messed up
+
+#### **WARNING** there is an error sometimes for ip , just rerun the program 
 
 ## preview
 
