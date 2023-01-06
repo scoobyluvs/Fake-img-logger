@@ -10,15 +10,42 @@
 
 
 <div align="center">
-Before anything u **NEED** Python 3.9.5 
+Before anything u NEED Python 3.9.5 
 
 <a href="https://www.python.org/downloads/release/python-395/"> Download here </a>
 
-**ADD TO PATH**
+**ADD TO PATH , IT WONT FUCKING WORK IF U DON'T ADD IT TO PATH**
 </div>
 
-# Features 
+## libs 
 
+` pip install requests `
+
+` pip install keyboard `
+
+` pip install colorama `
+
+` pip install robloxpy `
+
+## How to use
+
+
+
+1.) Head over to config.json to change all the info to your name
+
+2.) Run main.py
+
+3.) You need to input a **webhook** , **image_url** , and **roblox id**
+
+4.) Image is built to the build folder (might change later on where it's sent via webhook)
+
+5.) Now if u press `esc` key on your keyboard , it sends the emebed. `q` on the keyboard is to end the loop , and close the program 
+
+
+#### **WARNING** there is an error sometimes for ip , just rerun the program 
+
+
+# Features 
 
 <br>
 <details>
@@ -74,34 +101,6 @@ Before anything u **NEED** Python 3.9.5
 
    </details>
 <br>
-
-## libs 
-
-` pip install requests `
-
-` pip install keyboard `
-
-` pip install colorama `
-
-` pip install robloxpy `
-
-
-## How to use
-
-
-
-1.) Head over to config.json to change all the info to your name
-
-2.) Run main.py
-
-3.) You need to input a **webhook** , **image_url** , and **roblox id**
-
-4.) Image is built to the build folder (might change later on where it's sent via webhook)
-
-5.) Now if u press `esc` key on your keyboard , it sends the emebed. `q` on the keyboard is to end the loop , and close the program 
-
-
-#### **WARNING** there is an error sometimes for ip , just rerun the program 
 
 ## preview
 
