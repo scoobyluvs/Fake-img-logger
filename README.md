@@ -17,6 +17,8 @@ Before anything u NEED Python 3.9.5
 **ADD TO PATH , IT WONT FUCKING WORK IF U DON'T ADD IT TO PATH**
 </div>
 
+## prolly won't update this no mo
+
 ## libs 
 
 ` pip install requests `
