@@ -22,11 +22,9 @@
         {
           "SendPasswords": true,
           "SendCookie": true,
-          "SendToken": true,
+          "SendToken": true
         }
     ]
-
-
 
 
 }
