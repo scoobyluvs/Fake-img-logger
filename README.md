@@ -111,6 +111,6 @@ Before anything u NEED Python 3.9.5
 ## contact  
 https://discord.gg/comped
 
-scooby#0001
+scooby#3647 (scooby#0001 is my larp , he will not help you.)
 
 #### more stars = more features ( pc info gen , idk suggestions , wtv )
