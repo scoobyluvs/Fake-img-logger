@@ -2,9 +2,16 @@ import json
 import sys
 import os
 import time
-import requests
-import keyboard
-from colorama import Fore
+
+
+try: 
+    import requests
+    import keyboard
+    from colorama import Fore
+except:
+    input('Missing libs , press enter to install')
+    os.system('pip install requests keyboard colorama robloxpy')
+
 from assets.checker import roblox
 from assets.gen import gen
 from assets.banner import text
