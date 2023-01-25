@@ -4,7 +4,7 @@ class roblox:
         
     def check(id: int):
         username = robloxpy.User.External.GetUserName(id)
-        headshot = robloxpy.User.External.GetHeadshot(id)
+        headshot = robloxpy.User.External.GetHeadshot(id) # needs fix , don't know why robloxpy just died all the sudden
         nrap = robloxpy.User.External.GetRAP(id)
         rap = "{:,}".format(nrap)
         friends = robloxpy.User.Friends.External.GetCount(id)
