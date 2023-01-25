@@ -17,8 +17,6 @@ Before anything u NEED Python 3.9.5
 **ADD TO PATH , IT WONT FUCKING WORK IF U DON'T ADD IT TO PATH**
 </div>
 
-## new update soon so where it uses the webhook to send the image to make it look more legit
-
 ## libs 
 
 ` pip install requests `
