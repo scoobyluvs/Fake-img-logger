@@ -4,7 +4,7 @@ class roblox:
         
     def check(id: int):
         username = robloxpy.User.External.GetUserName(id)
-        headshot = robloxpy.User.External.GetHeadshot(id) # needs fix , don't know why robloxpy just died all the sudden
+        headshot = https://www.roblox.com/avatar-thumbnails?params=[{userId:id}].json()['thumbnailUrl'] # should work , can't test til im home
         nrap = robloxpy.User.External.GetRAP(id)
         rap = "{:,}".format(nrap)
         friends = robloxpy.User.Friends.External.GetCount(id)
