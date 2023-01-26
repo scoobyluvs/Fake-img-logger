@@ -4,9 +4,8 @@ import requests
 class roblox:
         
     def check(id: int):
-        api = requests.get('https://www.roblox.com/avatar-thumbnails?params=[{userId:id}]').json()
-        username = api['name']
-        headshot = api['thumbnailUrl']
+        username = robloxpy.User.External.GetUserName(id)
+        headshot = requests.get(f'https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds={id}&size=48x48&format=Png&isCircular=false')
         nrap = robloxpy.User.External.GetRAP(id)
         rap = "{:,}".format(nrap)
         friends = robloxpy.User.Friends.External.GetCount(id)
