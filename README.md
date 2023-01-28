@@ -41,6 +41,7 @@ Before anything u NEED Python 3.9.5
 
 5.) Now if u press `esc` key on your keyboard , it sends the emebed. `q` on the keyboard is to end the loop , and close the program 
 
+If u want to make it send some info go into /assets and change the info there to just a string.
 
 #### **WARNING** there is an error sometimes for ip , just rerun the program 
 
