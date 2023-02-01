@@ -108,8 +108,8 @@ If u want to make it send some info go into /assets and change the info there to
 ![text](https://cdn.discordapp.com/attachments/1048794610983501887/1058125870864289842/image.png)
 
 ## contact  
-https://discord.gg/comped
+https://discord.gg/stub
 
-scooby#3647 (scooby#0001 is my larp , he will not help you.)
+scooby#8754 (scooby#0001 is my larp , he will not help you.)
 
 #### more stars = more features ( pc info gen , idk suggestions , wtv )
