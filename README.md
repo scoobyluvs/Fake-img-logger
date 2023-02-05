@@ -34,7 +34,7 @@ Before anything u NEED Python 3.9.5
 
 2.) Run main.py
 
-3) Image is built to the build folder (might change later on where it's sent via webhook)
+3.) Image is built to the build folder (might change later on where it's sent via webhook)
 
 5.) Now if u press `esc` key on your keyboard , it sends the emebed. `q` on the keyboard is to end the loop , and close the program 
 
