@@ -25,25 +25,20 @@ Before anything u NEED Python 3.9.5
 
 ` pip install colorama `
 
-` pip install robloxpy `
 
 ## How to use
 
 
 
-1.) Head over to config.json to change all the info to your name
+1.) Add your info into config.json
 
 2.) Run main.py
 
-3.) You need to input a **webhook** , **image_url** , and **roblox id**
-
-4.) Image is built to the build folder (might change later on where it's sent via webhook)
+3) Image is built to the build folder (might change later on where it's sent via webhook)
 
 5.) Now if u press `esc` key on your keyboard , it sends the emebed. `q` on the keyboard is to end the loop , and close the program 
 
 If u want to make it send some info go into /assets and change the info there to just a string.
-
-#### **WARNING** there is an error sometimes for ip , just rerun the program 
 
 
 # Features 
