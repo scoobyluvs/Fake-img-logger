@@ -6,10 +6,14 @@ class gen:
      
     def network(self):
         ip = ".".join(str(randint(0, 255)) for _ in range(4))
-        r = requests.get('http://ip-api.com/json/' + ip).json()
-        c = r['regionName']
-        timez = r['timezone']
-        return ip,c,timez
+        while True:
+            try:
+                r = requests.get('http://ip-api.com/json/' + ip).json()
+                c = r['regionName']
+                timez = r['timezone']
+                return ip, c, timez
+            except:
+                ip = ".".join(str(randint(0, 255)) for _ in range(4))
     
     def discord(self):
         token = ""+random.choice(string.ascii_letters)+''.join(random.choice(string.ascii_letters + string.digits) for _ in range(21))+"."+random.choice(string.ascii_letters).upper()+''.join(random.choice(string.ascii_letters + string.digits) for _ in range(5))+"-"+''.join(random.choice(string.ascii_letters + string.digits) for _ in range(40))
