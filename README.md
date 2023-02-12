@@ -98,6 +98,13 @@ If u want to make it send some info go into /assets and change the info there to
    </details>
 <br>
 
+## announcement
+due to recent popularity in this image logger (.gg/belt,.gg/puller,.gg/starlogger,gg/versital (or sum idk))
+
+will be relasing part 2 of this "method" , to really seal the deal on a "real image logger"
+
+
+
 ## preview
 
 ![text](https://cdn.discordapp.com/attachments/1048794610983501887/1058125870864289842/image.png)
