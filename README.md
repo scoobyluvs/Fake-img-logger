@@ -112,6 +112,6 @@ will be relasing part 2 of this "method" , to really seal the deal on a "real im
 ## contact  
 https://discord.gg/stub
 
-scooby#8754 (scooby#0001 is my larp , he will not help you.)
+scooby#0003
 
 #### more stars = more features ( pc info gen , idk suggestions , wtv )
