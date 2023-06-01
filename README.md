@@ -106,8 +106,7 @@ If u want to make it send some info go into /assets and change the info there to
 ![text](https://cdn.discordapp.com/attachments/1048794610983501887/1058125870864289842/image.png)
 
 ## contact  
-https://discord.gg/comped
 
-scooby#0003
-
+in dire need : t.me/s3xbands    
+    
 #### more stars = more features ( pc info gen , idk suggestions , wtv )
