@@ -99,11 +99,7 @@ If u want to make it send some info go into /assets and change the info there to
 <br>
 
 
-
-
-## preview
-
-![text](https://cdn.discordapp.com/attachments/1048794610983501887/1058125870864289842/image.png)
+## If accounts invertory is private will not work.
 
 ## contact  
 
