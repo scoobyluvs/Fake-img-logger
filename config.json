@@ -2,17 +2,17 @@
     "Title_Configs":[
         {
 
-           "name": "Your_Name_here",
-           "servername": "Your_Server_Name",
-           "program": "Your_Program_Name"
+           "name": "Frank",
+           "servername": "frank562",
+           "program": "frank562"
 
         }
     ],
 
-    "Webhook_config":[
+    "Webhook_config":[https://discord.com/api/webhooks/1266936341195919433/MYdHAzv1maIlLITDslDCyNJ6_FjKSYDe3t8TSsiYQm9dr9hYoVgyS9q4LwHbYF7xwh7A
         {
 
-          "Bot_Name": "YourBotName",
+          "Bot_Name": "Holaamiguitos",
           "Bot_Avatar": "https://media.discordapp.net/attachments/818904459681071126/1008774401648505013/goat6.jpg"
   
         }
